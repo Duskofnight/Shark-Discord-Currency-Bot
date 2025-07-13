@@ -1,4 +1,4 @@
-# 🐬 Discord Currency Game Bot 💰
+# 🐬 **Shark**- Discord Currency Game Bot 💰
 
 A fun and interactive Discord bot that lets users earn, spend, and manage virtual money with pets 🐕, properties 🏠, businesses 🏢, and items 🎁!
 
